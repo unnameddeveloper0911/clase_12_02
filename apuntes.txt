@@ -1,28 +1,30 @@
-                         AAA
-                        AAAAA
-                       AAA AAA
-                      AAA   AAA
-                     AAA     AAA
-                    AAA       AAA
-                   AAA         AAA
-                  AAA           AAA
-                 AAA             AAA
-                AAA               AAA
-               AAA                 AAA
-              AAA                   AAA
-             AAA                     AAA
-            AAA                       AAA
-           AAA                         AAA
-          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-        AAA                               AAA
-       AAA                                 AAA
-      AAA                                   AAA
-     AAA                                     AAA
-    AAA                                       AAA
-   AAA                                         AAA
-  AAA                                           AAA
- AAA                                             AAA
-AAA                                               AAA
+                          AAA
+                         AAAAA
+                        AAAAAAA
+                       AAAA AAAA
+                      AAAA   AAAA
+                     AAAA     AAAA
+                    AAAA       AAAA
+                   AAAA         AAAA
+                  AAAA           AAAA
+                 AAAA             AAAA
+                AAAA               AAAA
+               AAAA                 AAAA
+              AAAA                   AAAA
+             AAAA                     AAAA
+            AAAA                       AAAA
+           AAAA                         AAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAA                               AAAA
+       AAAA                                 AAAA
+      AAAA                                   AAAA
+     AAAA                                     AAAA
+    AAAA                                       AAAA
+   AAAA                                         AAAA
+  AAAA                                           AAAA
+ AAAA                                             AAAA
+AAAA                                               AAAA
+
 
 Palabra clave "pass", mi religión
