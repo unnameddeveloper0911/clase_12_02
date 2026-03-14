@@ -24,7 +24,6 @@ class ListaSimple:
             
     
     def metodo_clean(self,indice):
-        nodo=Nodo(indice)
         aux=self._cabeza.siguiente
         if self._cabeza is None:
             self._cabeza=None
